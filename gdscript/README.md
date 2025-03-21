@@ -1,6 +1,6 @@
 # Slang for GDScript
 
-It's exactly what the title says. I've been using it for a few weeks now to store data for my current project without any massive issues, so I think it's worth publishing.
+It's exactly what the title says. I've been using it for a few weeks now to store data for my current project. Nothing's exploded yet, so I think it's worth publishing.
 
 ## Usage
 
