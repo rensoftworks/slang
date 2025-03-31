@@ -20,7 +20,7 @@ Slang was written primarily for these reasons:
 - **Editor-friendly** - A human should be able to reasonably read a well-formatted Slang document and edit it. Additionally, it should be easy to compose brand-new Slang documents from scratch.
 # Implementations
 
-- slang-gdscript - GDScript implementation of Slang
+- [slang-gdscript](https://github.com/rensoftworks/slang-gdscript) - GDScript implementation of Slang
 
 # Spec
 
