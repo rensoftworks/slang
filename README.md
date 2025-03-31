@@ -18,6 +18,10 @@ Slang was written primarily for these reasons:
 
 - **Minimalist** - Slang supports a minimal number of base value types. It expects you to construct more complex types of data from these base types (such as through nested tables), or you can have your application's code do all the heavy lifting. Consequently, the Slang spec aims to be as short and concise as possible and should be relatively simple to implement.
 - **Editor-friendly** - A human should be able to reasonably read a well-formatted Slang document and edit it. Additionally, it should be easy to compose brand-new Slang documents from scratch.
+# Implementations
+
+- slang-gdscript - GDScript implementation of Slang
+
 # Spec
 
 Slang documents should use the extension `.slang`. If you want the document to show up in the Godot editor, `.slang.cfg` also works. Really, just do whatever you want. It's your app, not mine.
