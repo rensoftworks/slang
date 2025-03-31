@@ -21,6 +21,7 @@ Slang was written primarily for these reasons:
 # Implementations
 
 - [slang-gdscript](https://github.com/rensoftworks/slang-gdscript) - GDScript implementation of Slang
+- [slang-vscode](https://github.com/rensoftworks/slang-vscode) - Language support for VSCode
 
 # Spec
 
