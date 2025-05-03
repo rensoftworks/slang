@@ -1,4 +1,4 @@
-# Slang v0.1.0
+# Slang v0.2.0
 *by Ren Softworks*
 
 **Slang** stands for ***Straightforward Language for Godot***. The following names are also appropriate:
@@ -69,6 +69,16 @@ key = value
 key
 =
 value
+```
+## Constants (new in 0.2)
+
+Prefixing a key with `@` turns a key/value pair into a constant declaration. The constant can then be inserted as a value elsewhere in the document by using its key. Constants are of global scope.
+
+```
+@my_constant = "turkey"
+
+my_favorite_country = @my_constant     # my_favorite_country = "turkey"
+my_favorite_lean_meat = @my_constant   # my_favorite_lean_meat = "turkey"
 ```
 ## Words
 
